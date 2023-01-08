@@ -11,9 +11,9 @@
  #define _MYSQL_EXECUTABLE          R"(@MYSQL_EXECUTABLE@)"
  #define _FULL_DATABASE             "NC_7.3.5"
  #define _HOTFIXES_DATABASE         "NC735_hotfixes"
- #define VER_COMPANYNAME_STR        "NordrassilCore Developers"
- #define VER_LEGALCOPYRIGHT_STR     "(c)2020 NordrassilCore"
- #define VER_FILEVERSION            0,0,0
+ #define VER_COMPANYNAME_STR        "Legends of Azeroth core Developers"
+ #define VER_LEGALCOPYRIGHT_STR     "(c)2022 Legends of Azeroth core Developers"
+ #define VER_FILEVERSION            1,0,0 alpha
  #define VER_FILEVERSION_STR        "@rev_hash@ @rev_date@ (@rev_branch@ branch)"
  #define VER_PRODUCTVERSION         VER_FILEVERSION
  #define VER_PRODUCTVERSION_STR     VER_FILEVERSION_STR
